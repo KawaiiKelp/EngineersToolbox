@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "engineers_toolbox:block/compressed_cobblestone"
+  }
+}
